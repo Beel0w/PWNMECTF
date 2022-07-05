@@ -10,4 +10,4 @@ Flag : PWNME{city_name} ( en lowercase - les espaces deviennent des underscores 
 Sur cette photo on aperçoit un château.
 En utilisant l'outil de google _Google Lens_ on tombe sur la page du Château Royal d'Amboise.
 
-le flag est donc : **_404CTF{amboise}_**
+le flag est donc : **_PWNME{amboise}_**
