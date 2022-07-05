@@ -11,14 +11,19 @@ Non justement ça sera plus facile de se fondre dans la foule on à pas choisi l
 
 Tout est bien sur la clé. Et comment je vais réussir à te retrouver ? Je porterai du fushia tu me retrouveras facilement.
 ## Resolution
-Pour ce challenge il faut tout d'abord trouver de quel évènement il s'agit. Avec les éléments données ( Wekeend de Juin, Métal et Hardrock, le plus connu de France ) on trouve qu'il s'agit du Hellfest.
+Pour ce challenge il faut tout d'abord trouver de quel évènement il s'agit. Avec les éléments données ( Wekeend de Juin, Métal et Hardrock, le plus connu de France ) on trouve qu'il s'agit du Hellfest.  
 
-On recherche donc maintenant quel est le réseau social de la personne qui veut récupérer la clef USB.
-Nous avons les éléments suivant : Hellfest et fushia.
-Linkedin : R.A.S
-Facebook : R.A.S
-Twitter : Bingo
-On a un post twitter contenant les éléments reherchés.
-On allant sur la profil de la personne on trouve le flag.
+On recherche donc maintenant quel est le réseau social de la personne qui veut récupérer la clef USB.  
+Nous avons les éléments suivant : Hellfest et fushia.  
+Linkedin : R.A.S  
+Facebook : R.A.S  
+Twitter : Bingo  
+On a un post twitter contenant les éléments recherchés. 
+
+![Screenshot](post_twitter.png)  
+
+On allant sur la profil de la personne on trouve le flag.  
+
+![Screenshot](Compte_twitter.png)  
 
 le flag est donc : **_PWNME{L0v3_Fu5hi4}_**
