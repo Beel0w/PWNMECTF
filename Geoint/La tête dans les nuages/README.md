@@ -6,8 +6,14 @@ En se remémorant des étendues de montagnes, ce fameux aristocrate demanda à s
 Flag : PWNME{mountain_name} ( en lowercase - les espaces deviennent des underscores "_" )
 
 ## Resolution
-Cette photo a été prise en haut d'une montagne.
-On sait que la photo a été prise à proximité du point précédent (Saint-Joriol)
-Le nom du sommet le plus proche est : Semnoz.
-La vue correspond parfaitement à l'image de base.
-le flag est donc : **_404CTF{semnoz}_**
+![Screenshot](step3.jpg)  
+
+Cette photo a été prise en haut d'une montagne.  
+On sait que la photo a été prise à proximité du point précédent (Saint-Joriol).  
+Le nom du sommet le plus proche est : Semnoz.  
+
+![Screenshot](montgane_proche.png)
+La vue correspond parfaitement à l'image de base.  
+
+![Screenshot](vue_Semnoz.png)
+le flag est donc : **_PWNME{semnoz}_**
